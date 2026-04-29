@@ -1,2 +1,3 @@
 # home-buying-flow-ai
-prototype, flow chart tool for buying home with ai
+Buying a home is confusing.
+This prototype makes the process visible, flow chart tool for buying home with ai.
